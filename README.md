@@ -47,8 +47,9 @@
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="CV">
 </a>
 
-<h2>Github stats:</h2> 
+
+<!--<h2>Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=MateoSB1&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/MateoSB1)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=MateoSB1&theme=material-palenight)](https://github.com/MateoSB1)
-</div>
+</div>-->
