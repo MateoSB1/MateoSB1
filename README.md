@@ -43,7 +43,7 @@
 <a href= "https://www.linkedin.com/in/mateobrancatosb1/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://drive.google.com/file/d/1WHYcDQqDh0UHKNhR4TvrJ0Qx1uij9Aad/view" >
+<a href="https://drive.google.com/file/d/1eIf5nmyoOKUT4iYgOR5ckMLvbux7GtnE/view" >
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="CV">
 </a>
 
